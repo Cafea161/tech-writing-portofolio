@@ -1,36 +1,45 @@
-# Python Professional Curriculum Design
+# Technical Curriculum Architecture (Python & SQL)
 
-This document outlines the structure of the Python Professional course I developed at Skillab. It demonstrates my ability to organize complex technical topics into a progressive learning path.
-
-## Module 1: Python Fundamentals
-* **Lesson 1:** Introduction to Python (Environment setup, syntax basics)
-* **Lesson 2:** Data Types and Operations I
-* **Lesson 3:** Data Types and Operations II
-* **Lesson 4:** Control Flow (Conditionals and Loops)
-* **Lesson 5:** Functions (Definitions, arguments, and return values)
-
-## Module 2: Intermediate Concepts & Architecture
-* **Lesson 6:** Modules & Packages
-* **Lesson 7:** Object-Oriented Programming (Part 1)
-* **Lesson 8:** Object-Oriented Programming (Part 2)
-* **Lesson 9:** Python Standard Library
-* **Lesson 10:** Python Collections (Advanced data structures)
-
-## Module 3: Advanced Technical Implementation
-* **Lesson 11:** File Handling & I/O Operations
-* **Lesson 12:** Working with External Libraries
-* **Lesson 13:** Database Integration (SQL & Python connectivity)
-* **Lesson 14:** Network Programming basics
-* **Lesson 15:** Debugging and Error Handling strategies
-
-## Module 4: High-Level Topics
-* **Lesson 16:** Asynchronous Programming
-* **Lessons 17 - 20:** Advanced Topics (Deep dives into specialized Python implementations)
+This document showcases my work in **organizing and structuring technical knowledge** for professional education. In my role as a Curriculum Producer, I collaborated with Subject Matter Experts (SMEs) to transform their expertise into logical, user-friendly learning paths.
 
 ---
-### Practical Assessment Design
-Each module included a hands-on project (Homework/Tema) designed to validate technical competency in areas such as:
-- Standard Library implementation
-- File system manipulation
-- Network communication
-- Database management
+
+## 1. Python Professional Curriculum
+**Goal:** A comprehensive 20-lesson journey from syntax basics to high-level asynchronous programming.
+
+### Module 1: Python Fundamentals
+* **Lesson 1-3:** Introduction, Syntax, Data Types and Operations
+* **Lesson 4-5:** Control Flow and Function Definitions
+
+### Module 2: Intermediate Architecture
+* **Lesson 6-8:** Modules, Packages, and Object-Oriented Programming (OOP)
+* **Lesson 9-10:** Python Standard Library and Advanced Collections
+
+### Module 3: Technical Implementation & Data
+* **Lesson 11-13:** File Handling, External Libraries, and Database Integration
+* **Lesson 14-15:** Network Programming, Debugging, and Error Handling
+
+### Module 4: High-Level Topics
+* **Lesson 16:** Asynchronous Programming
+* **Lessons 17-20:** Advanced Specialized Topics
+
+---
+
+## 2. SQL & Database Management Curriculum
+**Goal:** Training professionals to manage data, from environment setup to complex query optimization.
+
+### Structure:
+* **Environment & DDL:** Installation, MySQL Configuration, and Data Definition Language.
+* **Querying & Logic:** SELECT statements, Views, and Subqueries.
+* **Advanced Relations:** JOIN operators and Database Normalization.
+* **Cloud & Analysis:** Google BigQuery integration and Data Visualization.
+
+---
+
+## My Strategic Contribution
+
+While lead instructors provided the deep-dive technical troubleshooting, my responsibility was the **Information Architecture** and **Narrative Flow**:
+
+1. **Pedagogical Structuring:** I determined the "Learning Path," ensuring that students weren't overwhelmed by complexity too early.
+2. **Resource Auditing:** I reviewed all technical assets (scripts, slides, tutorials) to ensure clarity, consistency, and accessibility for non-expert learners.
+3. **Bridge to the User:** I translated the expert's "raw code" perspective into a structured educational experience—the core skill I now apply to technical documentation.
