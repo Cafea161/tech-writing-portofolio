@@ -30,7 +30,7 @@
 
 ## 3. Learning Design & Technical 
 
-* **Skillab Portfolio**: Orchestrated professional [curricula](9ethics_scraper.py) for **[HRBP](https://skillab.ro/lecture/139-strategic-hr-business-partner), [Python](https://skillab.ro/lecture/654-basic-python#lector), SQL, and Excel**.
+* **Skillab Portfolio**: Orchestrated professional [curricula](python_curriculum_design.md) for **[HRBP](https://skillab.ro/lecture/139-strategic-hr-business-partner), [Python](https://skillab.ro/lecture/654-basic-python#lector), SQL, and Excel**.
 * **Role**: Information Architect. Audited technical assets from SMEs to ensure pedagogical clarity.
 * **Impact**: Managed 10+ high-stakes programs with a **90% positive feedback rate**.
 
