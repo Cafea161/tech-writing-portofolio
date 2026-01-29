@@ -1,17 +1,50 @@
-# Portfolio: Technical Communication & Information Architecture
-
-Welcome to my repository! Here are samples of my work that connect technical logic and user-centric documentation.
-
-## 1. Technical Curriculum Architecture
-**Project:** Python & SQL Professional Courses (Skillab, robot_dreams)
-- **Role:** Curriculum Producer / Information Architect
-- **Description:** I collaborated with Subject Matter Experts to transform raw technical knowledge into logical learning paths. I focused on pedagogical flow, ensuring that complex concepts (like SQL Normalization or Python OOP) were accessible to professional learners.
-- **File:** [View Curriculum Structure](./curriculum_design.md)
-
-## 2. Research Automation Tools
-**Project:** Python-based Ethics NewsAPI Content Scraper
-- **Description:** A practical script developed to automate the retrieval of titles for Applied Ethics research.
-- **File:** [View Script](./ethics_scraper.py)
+# Octavian Ciortea | Portfolio
+**L&D Producer | Video Creator | Soft Skills Facilitator |**
 
 ---
-### Thank you!
+
+##  1. Digital Storytelling & Social Impact
+*Strategy, content production*
+
+* **Dream of a Dandilion / Humane in Deed**
+    * **Role:** Strategist & Creator.
+    * **Impact:** Produced, and edited "Podcast Atipic" & "Podcast Dezarhivat". Defined the narrative identity and digital footprint for the organizations, pivoting towards a "Value-First" content model.
+    * **Note:** Content in Romanian. 
+    * **Links:** [Instagram](https://www.instagram.com/visul.unei.papadii/) | [Podcast](https://www.youtube.com/@Visuluneipapadii) | [Instagram - Humane](https://www.instagram.com/humane.in.deed/) | [Podcast](https://www.youtube.com/@humaneindeed5490)
+
+* **The Ethics Lab**
+    * **Concept:** Micro-learning: Turning complex ethics into high-retention visual content.
+    * **Link:** [Instagram](https://www.instagram.com/reteauaetica/)
+
+---
+
+## 2. Multimedia & Video Production
+*End-to-end video creation, from script to post-production.*
+
+* **YouTube (Personal Brand)**: Focused on narrative pacing and viewer retention.
+* **Skills**: **Adobe Premiere Pro**, **Audition**, **Photoshop**. **Figma**, **Canva**, **AI Prompting**, 
+* **Note**: English content & Romanian content **without English subtitles**
+* **Link:** [English Newsletter](https://www.youtube.com/watch?v=08zfmxJrctg), [Cinematic Montage](https://www.youtube.com/watch?v=taI6jiFO-Vs), [Romanian video-essay](The case of Jahai McMath)
+
+---
+
+## 3. Learning Design & Technical 
+
+* **Skillab Portfolio**: Orchestrated professional curricula for **[HRBP](https://skillab.ro/lecture/139-strategic-hr-business-partner), [Python](https://skillab.ro/lecture/654-basic-python#lector), SQL, and Excel**.
+* **Role**: Information Architect. Audited technical assets from SMEs to ensure pedagogical clarity.
+* **Impact**: Managed 10+ high-stakes programs with a **90% positive feedback rate**.
+
+---
+
+## 4. Technical Literacy & Academic
+* **Automation**: [Ethics Scraper (Python)](./ethics_scraper.py) – Using NewsAPI for research automation.
+* **Academic**: **PhD research in Applied Ethics** (5 years of research in cooperation frameworks).
+
+## **Certifications**: Screenwriting (SKVOT) & Soft Skills Facilitator.
+
+---
+
+### 📬 Contact
+- **Email**: octavian.r.ciortea@gmail.com
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/octavian-r-ciortea-5753021b5/)
+- **Phone**: +40742346313
