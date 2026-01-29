@@ -24,7 +24,7 @@
 * **YouTube (Personal Brand)**: Focused on narrative pacing and viewer retention.
 * **Skills**: **Adobe Premiere Pro**, **Audition**, **Photoshop**. **Figma**, **Canva**, **AI Prompting**, 
 * **Note**: English content & Romanian content **without English subtitles**
-* **Link:** [English Newsletter](https://www.youtube.com/watch?v=08zfmxJrctg), [Cinematic Montage](https://www.youtube.com/watch?v=taI6jiFO-Vs), [Romanian video-essay](The case of Jahai McMath)
+* **Link:** [English Newsletter](https://www.youtube.com/watch?v=08zfmxJrctg), [Cinematic Montage](https://www.youtube.com/watch?v=taI6jiFO-Vs), [Romanian video-essay](https://www.youtube.com/watch?v=2UA9kz9nC2U)
 
 ---
 
