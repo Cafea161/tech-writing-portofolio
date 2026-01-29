@@ -1,4 +1,8 @@
 # Technical Curriculum Architecture (Python & SQL)
+_Please note that some of my past documentation and curriculum work at Skillab is 
+proprietary or part of internal systems that cannot be shared publicly. The provided GitHub 
+repository contains reconstructed public versions and representative samples of my structural 
+work._
 
 This document showcases my work in **organizing and structuring technical knowledge** for professional education. In my role as a Curriculum Producer, I collaborated with Subject Matter Experts (SMEs) to transform their expertise into logical, user-friendly learning paths.
 
@@ -38,8 +42,8 @@ This document showcases my work in **organizing and structuring technical knowle
 
 ## My Strategic Contribution
 
-While lead instructors provided the deep-dive technical troubleshooting, my responsibility was the **Information Architecture** and **Narrative Flow**:
+While lead instructors provided the technical troubleshooting, my responsibility was the **Information Architecture** and **Narrative Flow**:
 
 1. **Pedagogical Structuring:** I determined the "Learning Path," ensuring that students weren't overwhelmed by complexity too early.
 2. **Resource Auditing:** I reviewed all technical assets (scripts, slides, tutorials) to ensure clarity, consistency, and accessibility for non-expert learners.
-3. **Bridge to the User:** I translated the expert's "raw code" perspective into a structured educational experience—the core skill I now apply to technical documentation.
+3. **Bridge to the User:** I translated the expert's "raw code" perspective into a structured educational experience - building an online shop.
